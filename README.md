@@ -7,3 +7,4 @@ This will only work in Prison Life so if you use it anywhere else it will not sh
 This script is completely free, and easy to use.
 If you have any issues DM me: techwastaken#7592
 Have fun!
+Alternatively, A version at Pastebin: https://pastebin.com/XzmC77c0
